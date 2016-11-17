@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# I'm adding a comment
+# I'm adding another comment
 
 def trumpSentence(text):
     import markovify
