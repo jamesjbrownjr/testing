@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[1]:
+# I'm adding a comment
 
 def trumpSentence(text):
     import markovify
@@ -11,7 +11,7 @@ def trumpSentence(text):
     return(text_model.make_sentence())
 
 
-# In[ ]:
+
 
 
 
